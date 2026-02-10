@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+build/
+dist/
+*.exe
+*.pkg
+!runtime.txt
